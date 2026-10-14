@@ -1,9 +1,9 @@
 /* Inter (variable, selbst gehostet) */
-@font-face{font-family:'Inter';font-style:normal;font-weight:100 900;font-display:swap;src:url(/assets/fonts/inter-latin-ext.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
-@font-face{font-family:'Inter';font-style:normal;font-weight:100 900;font-display:swap;src:url(/assets/fonts/inter-latin.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Inter';font-style:normal;font-weight:100 900;font-display:block;src:url(/assets/fonts/inter-latin-ext.woff2) format('woff2');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:'Inter';font-style:normal;font-weight:100 900;font-display:block;src:url(/assets/fonts/inter-latin.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
 /* Satoshi (Fontshare, selbst gehostet) */
-@font-face{font-family:'Satoshi';src:url(/assets/fonts/satoshi-700.woff2) format('woff2');font-weight:700;font-display:swap;font-style:normal}
-@font-face{font-family:'Satoshi';src:url(/assets/fonts/satoshi-900.woff2) format('woff2');font-weight:900;font-display:swap;font-style:normal}
+@font-face{font-family:'Satoshi';src:url(/assets/fonts/satoshi-700.woff2) format('woff2');font-weight:700;font-display:block;font-style:normal}
+@font-face{font-family:'Satoshi';src:url(/assets/fonts/satoshi-900.woff2) format('woff2');font-weight:900;font-display:block;font-style:normal}
 /* Remix Icon 4.5.0 – nur verwendete Icons */
 @font-face{font-family:remixicon;src:url(/assets/fonts/remixicon-sub.woff2) format('woff2');font-display:block}
 [class*=" ri-"],[class^=ri-]{font-family:remixicon!important;font-style:normal;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.ri-lg{font-size:1.3333em;line-height:.75em;vertical-align:-.0667em}.ri-xl{font-size:1.5em;line-height:.6666em;vertical-align:-.075em}.ri-xxs{font-size:.5em}.ri-xs{font-size:.75em}.ri-sm{font-size:.875em}.ri-1x{font-size:1em}.ri-2x{font-size:2em}.ri-3x{font-size:3em}.ri-4x{font-size:4em}.ri-5x{font-size:5em}.ri-6x{font-size:6em}.ri-7x{font-size:7em}.ri-8x{font-size:8em}.ri-9x{font-size:9em}.ri-10x{font-size:10em}.ri-fw{text-align:center;width:1.25em}
