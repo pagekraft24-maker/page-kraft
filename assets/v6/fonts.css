@@ -133,3 +133,6 @@
 .ri-whatsapp-line:before{content:"\f2bc"}
 /* pk-instant: Hero-Einblendung aus, damit Inhalte sofort stehen (kein Nachspringen beim Laden) */
 [style*="fadeInUp 0.7s"],[style*="fadeInUp 0.9s"]{animation:none!important}
+/* pk-a11y: Links im Fließtext unterstreichen */
+p a[class*="hover:underline"],li a[class*="hover:underline"],span a[class*="hover:underline"],label a{text-decoration:underline;text-underline-offset:2px}
+[data-pk-deco]::before{content:attr(data-pk-deco)}
