@@ -1,5 +1,5 @@
 import{a as r,i as Hd,t as Ft,o as Ld}from"./index-BJYT9JBK.js";const A=r();const META={"title": "Kontakt – Kostenloses Erstgespräch anfragen | Pagekraft", "description": "Nehmen Sie Kontakt auf! Wir melden uns innerhalb von 24 Stunden mit einem konkreten Vorschlag. Kostenlos, unverbindlich und ohne Risiko.", "url": "https://page-kraft.de/kontakt"};const LD=[{"@context": "https://schema.org", "@type": "ContactPage", "name": "Kontakt – Kostenloses Erstgespräch anfragen | Pagekraft", "url": "https://page-kraft.de/kontakt", "description": "Nehmen Sie Kontakt auf! Wir melden uns innerhalb von 24 Stunden mit einem konkreten Vorschlag. Kostenlos, unverbindlich und ohne Risiko.", "mainEntity": {"@type": "Organization", "name": "Pagekraft", "email": "info@page-kraft.de", "url": "https://page-kraft.de"}}, {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Startseite", "item": "https://page-kraft.de"}, {"@type": "ListItem", "position": 2, "name": "Kontakt", "item": "https://page-kraft.de/kontakt"}]}];
-const FORM="https://readdy.ai/api/form/d8g36g6rnpmjsc93fggg";
+const FORM="https://api.web3forms.com/submit";
 function setHead(m){try{document.title=m.title;const q=(s,a,v)=>{const n=document.head.querySelector(s);n&&n.setAttribute(a,v)};
 q('meta[name="description"]','content',m.description);q('link[rel="canonical"]','href',m.url);
 q('meta[property="og:title"]','content',m.title);q('meta[property="og:description"]','content',m.description);q('meta[property="og:url"]','content',m.url);
@@ -25,8 +25,8 @@ f.addEventListener('submit',async e=>{e.preventDefault();
 if(!f.querySelector('[name=dsgvo]').checked)return showErr('Bitte stimmen Sie der Datenschutzerklärung zu.');
 const agb=f.querySelector('[name=agb]');if(agb&&!agb.checked)return showErr('Bitte stimmen Sie den AGB zu.');
 if(err)err.textContent='';const label=btn.textContent;btn.disabled=true;btn.textContent='Wird gesendet…';
-const body=new URLSearchParams();new FormData(f).forEach((v,k)=>body.append(k,String(v)));
-try{const r=await fetch(FORM,{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:body.toString()});
+const body=new URLSearchParams();new FormData(f).forEach((v,k)=>body.append(k,String(v)));body.append('access_key',"9bc367a5-e58e-4be9-9cd0-8b682db0cfcc");body.append('subject','Neue Anfrage über page-kraft.de (Kontaktseite)');body.append('from_name','Pagekraft Website');
+try{const r=await fetch(FORM,{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded',Accept:'application/json'},body:body.toString()});
 if(r.ok){try{window.gtag&&window.gtag('event','generate_lead',{form_location:'kontakt_page',event_category:'Lead'})}catch(_){}
 const ok=document.createElement('div');ok.className='bg-white p-10 text-center';ok.style.cssText='border-radius:12px;border:1px solid #BFDBFE';
 ok.innerHTML='<div class="w-16 h-16 flex items-center justify-center rounded-full mx-auto mb-5" style="background:#DCFCE7"><i class="ri-check-line text-[#16A34A]" style="font-size:1.8rem"></i></div><h3 class="text-[#0F172A] mb-2" style="font-family:\'Satoshi\',\'Inter\',sans-serif;font-weight:700;font-size:1.2rem">Vielen Dank!</h3><p class="text-[#475569]" style="font-size:0.875rem;line-height:1.75">Ihre Anfrage ist eingegangen. Wir melden uns innerhalb von 24 Stunden.</p>';
