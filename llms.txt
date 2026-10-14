@@ -1,0 +1,54 @@
+# Pagekraft (page-kraft.de)
+
+> Webdesign-Agentur aus Stuttgart für kleine und mittelständische Unternehmen. Individuelle Websites mit KI-Assistent, laufendem SEO und dauerhaftem Support – fertig in rund 7 Tagen, ohne Einrichtungsgebühr, im monatlichen Paket ab 199 €/Monat.
+
+- Anbieter: Pagekraft, Geißeichstraße 29, 70197 Stuttgart
+- E-Mail: info@page-kraft.de
+- Gegründet: 2024
+- Tätig: deutschlandweit
+
+## Hauptseiten
+- [Startseite](https://page-kraft.de/): Überblick, Leistungen, Ablauf, Preise, Referenzen, FAQ, Kontaktformular
+- [Leistungen](https://page-kraft.de/leistungen): Webdesign, KI-Integration, SEO-Optimierung, laufende Pflege
+- [Vorteile](https://page-kraft.de/vorteile): Pagekraft im Vergleich zur klassischen Agentur
+- [Referenzen](https://page-kraft.de/referenzen): Kundenprojekte
+- [Über uns](https://page-kraft.de/ueber-uns): Agentur und Arbeitsweise
+- [Kontakt](https://page-kraft.de/kontakt): Anfrage stellen
+- [Blog](https://page-kraft.de/blog): Ratgeber rund um Websites
+- [Was kostet eine Website 2026?](https://page-kraft.de/blog/website-kosten-2026)
+
+## Webdesign in Ihrer Stadt
+- [Stuttgart](https://page-kraft.de/stadt/stuttgart)
+- [Berlin](https://page-kraft.de/stadt/berlin)
+- [Hamburg](https://page-kraft.de/stadt/hamburg)
+- [München](https://page-kraft.de/stadt/muenchen)
+- [Köln](https://page-kraft.de/stadt/koeln)
+- [Frankfurt am Main](https://page-kraft.de/stadt/frankfurt)
+- [Düsseldorf](https://page-kraft.de/stadt/duesseldorf)
+- [Leipzig](https://page-kraft.de/stadt/leipzig)
+- [Dortmund](https://page-kraft.de/stadt/dortmund)
+- [Essen](https://page-kraft.de/stadt/essen)
+- [Bremen](https://page-kraft.de/stadt/bremen)
+- [Dresden](https://page-kraft.de/stadt/dresden)
+- [Hannover](https://page-kraft.de/stadt/hannover)
+- [Nürnberg](https://page-kraft.de/stadt/nuernberg)
+- [Duisburg](https://page-kraft.de/stadt/duisburg)
+- [Bochum](https://page-kraft.de/stadt/bochum)
+- [Wuppertal](https://page-kraft.de/stadt/wuppertal)
+- [Bielefeld](https://page-kraft.de/stadt/bielefeld)
+- [Bonn](https://page-kraft.de/stadt/bonn)
+- [Münster](https://page-kraft.de/stadt/muenster)
+- [Karlsruhe](https://page-kraft.de/stadt/karlsruhe)
+- [Mannheim](https://page-kraft.de/stadt/mannheim)
+- [Augsburg](https://page-kraft.de/stadt/augsburg)
+- [Kiel](https://page-kraft.de/stadt/kiel)
+- [Heidelberg](https://page-kraft.de/stadt/heidelberg)
+- [Freiburg](https://page-kraft.de/stadt/freiburg)
+- [Rostock](https://page-kraft.de/stadt/rostock)
+- [Osnabrück](https://page-kraft.de/stadt/osnabrueck)
+
+## Optional
+- [Ausführliche Fassung für KI-Systeme](https://page-kraft.de/llms-full.txt)
+- [Impressum](https://page-kraft.de/impressum)
+- [Datenschutz](https://page-kraft.de/datenschutz)
+- [AGB](https://page-kraft.de/agb)
